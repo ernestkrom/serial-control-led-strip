@@ -12,6 +12,6 @@ Steps:
 3. Run the Python script from a terminal (edit USB port beforehand)
 
 Dependencies:
-   Arduino IDE installed, and "Adafruit NeoPixel Library" added
-   Python 3.x installed, and added to path variable
-   "pip install serial" executed (Python library for serial communication)
+* Arduino IDE installed, and "Adafruit NeoPixel Library" added
+* Python 3.x installed, and added to path variable
+* "pip install serial" executed (Python library for serial communication)
