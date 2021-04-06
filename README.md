@@ -15,3 +15,8 @@ Dependencies:
 * Arduino IDE installed, and "Adafruit NeoPixel Library" added
 * Python 3.x installed, and added to path variable
 * "pip install serial" executed (Python library for serial communication)
+
+Windows-specific:
+* Install Python 3.x and add to PATH
+* python -m pip install pyserial
+* Install driver for Arduino: https://sparks.gogo.co.nz/ch340.html
